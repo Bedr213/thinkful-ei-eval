@@ -13,3 +13,4 @@ This repo is a tool for conducting the Engineering Immersion evaluation intervie
   * This is the only file you will edit for the test
   * Whenever you save a change, you can refresh the browser to see your changes
 
+[![Run on Repl.it](https://repl.it/badge/github/Bedr213/thinkful-ei-eval)](https://repl.it/github/Bedr213/thinkful-ei-eval)
